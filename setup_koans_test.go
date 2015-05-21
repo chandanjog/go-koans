@@ -6,8 +6,8 @@ import (
 	"os"
 	"path"
 	"runtime"
-	"strings"
 	"testing"
+	"strings"
 )
 
 const (
